@@ -6,4 +6,5 @@
 - 🚀 Recent Project: [AI Phishing URL Detector](https://github.com/yourusername/phishing-url-detector)  
 - 🎯 Goal: Use AI to build safer online experiences for students and users worldwide  
 
-📫 **Contact:** [Add your email or LinkedIn link here]
+📫 **Contact:** ayaan.furqan007@gmail.com
+
